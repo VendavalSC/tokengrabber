@@ -14,7 +14,7 @@
 <br><br>
 <p align="center">
 <strong>
-This program is a tool made by <a href="https://github.com/InstinctEx">Instinct</a> (me) 
+This program is a tool made by <a href="https://github.com/InstinctEx">Instinct</a> 
 <br>that exploits the security vulnerabilities of some chromium based web browsers and Discord.
 <br>It collects and sends the usernames and passwords stored in that browsers
 <br>of the users who run the program to a webhook on Discord.
